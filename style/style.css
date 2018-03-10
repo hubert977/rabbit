@@ -1,0 +1,165 @@
+.menu
+{
+    z-index: 9995;
+    background-color: white;
+    opacity: 0.8;
+}
+.menu_radius
+{
+    color: #7A0D0D;
+    font-size: 17px;
+    font-weight: 700;
+    border-bottom: 1.5px solid #7A0D0D;
+}
+.logo_rabbit
+{
+    width: 110px;
+    height: 80px;  
+    float: left;
+}
+.text_rabbit
+{
+    float:left;
+    font-family: 'Caveat', cursive;
+}
+.bg-banner
+{
+    background-image: url('../img/restaurant.png');
+    background-size:100% 100%;  
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    
+}
+.menu_container
+{
+    background-color: black;
+}
+.btn_2:hover
+{
+    border-bottom: 0.5px solid #7A0D0D;
+}
+.btn_3:hover
+{
+    border-bottom: 0.5px solid #7A0D0D;
+}
+.btn_4:hover
+{
+    border-bottom: 0.5px solid #7A0D0D;
+}
+.font_menu
+{
+    font-family: 'Cardo', serif;
+
+}
+.btn_1:hover
+{
+     color: #7A0D0D;
+}
+.sky
+{
+    background-color: black; 
+    margin-left: 28%;
+    margin-top: 350px;
+    opacity: 0.7;
+    width: 44%;
+    font-size: 50px;
+    color: white;
+    
+}
+.btn_introducion
+{
+    margin-left: 43%;
+    height: 60px;
+    width: 200px;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+
+}
+.slide_element
+{
+    background-color: whitesmoke;
+    
+}
+.slide_element h2
+{
+    font-size: 20px;
+    margin-top: 300px;
+    font-family: 'Cardo', serif;
+    padding-left: 20px;
+
+}
+.about
+{
+    width: 600px;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 6%;
+    float: left;
+    font-family: 'Amatic SC', cursive;
+
+}
+.about_element
+{
+    padding-left: 20px;
+}
+.food
+{
+    font-size: 50px;
+    padding-top: 70px;
+}
+.sky_h1_element
+{
+        font-family: 'Cardo', serif;
+        font-size: 20px;
+}
+.menu_icon
+{
+    width: 500px;
+}
+.pasta_menu
+{
+    width: 350px;
+    height: 200px;
+}
+.desert_menu
+{
+    width: 200px;
+    height: 250px;
+}
+.gallery
+{
+    background-image: url('../img/about.png');
+    background-attachment: fixed;
+}
+.contact
+{
+    height: 15%;
+    border: 1px solid grey;
+    
+}
+.contact_element p
+{
+    padding-left: 50%;
+    padding-top: 40px;
+    color: grey;
+}
+@media only screen and (max-width: 1510px)
+{
+    .sky
+    {
+    font-size: 20px;
+    margin-left: 40%;
+    width: 23%;
+    }
+
+}
+@media only screen and (max-width: 1200px)
+{
+    .sky{
+    width: 28%;
+    font-size: 20px;
+    }
+}
+ .no-padding {
+   padding: 0;
+ }
